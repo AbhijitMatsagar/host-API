@@ -1,0 +1,59 @@
+[
+    {
+        "name": "iphone",
+        "price": 15444,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "watch",
+        "price": 15444,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone 10",
+        "price": 15444,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "watch 10",
+        "price": 15444,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone 13 pro",
+        "price": 15444,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone 11 pro",
+        "price": 15444,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "Galaxy SE",
+        "price": 15444,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "MI 11",
+        "price": 15444,
+        "company": "mi"
+    },
+    {
+        "name": "MI 13",
+        "price": 15444,
+        "company": "mi"
+    },
+    {
+        "name": "MI 13",
+        "price": 15444,
+        "company": "mi"
+    }
+]
